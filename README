@@ -1,0 +1,13 @@
+# Gitman
+
+With lots of companies breaking their monolithic appliactions downs into smaller ones,
+adopting microservices, SOA, and shared libraries across apps, our work days more and
+more involved hopping back and forth multiple git repository directories. Doing this
+kind of bouncing sometimes leaves you with some maintenance overhead:
+
+* What branches am I working on in each repo?
+* What branches have I released and so can remove my my local clone?
+* Have I pruned origin lately?
+
+Enter gitman, short for "git manager". Gitman will help you maintain your multiple
+cloned repositories and alllow you to keep your work environment shiny and clean.
