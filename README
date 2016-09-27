@@ -8,6 +8,7 @@ kind of bouncing sometimes leaves you with some maintenance overhead:
 * What branches am I working on in each repo?
 * What branches have I released and so can remove my my local clone?
 * Have I pruned origin lately?
+* Is my work email set for all my work repositories?
 
 Enter gitman, short for "git manager". Gitman will help you maintain your multiple
 cloned repositories and alllow you to keep your work environment shiny and clean.
